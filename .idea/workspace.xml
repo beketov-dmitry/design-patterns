@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d64ac122-b93a-4c34-842c-ad0259f29a18" name="Changes" comment="state">
-      <change afterPath="$PROJECT_DIR$/Design Patterns/State/src/CloseState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design Patterns/State/src/CloseStateException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design Patterns/State/src/OpenState.java" afterDir="false" />
+    <list default="true" id="d64ac122-b93a-4c34-842c-ad0259f29a18" name="Changes" comment="State pattern update and end">
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Strategy/Strategy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Strategy/src/AscendingSortStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Strategy/src/CalculationEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Strategy/src/DescendingSortStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Strategy/src/IStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Design Patterns/State/src/State.java" beforeDir="false" afterPath="$PROJECT_DIR$/Design Patterns/State/src/State.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673702554703</updated>
-      <workItem from="1673702556105" duration="4247000" />
+      <workItem from="1673702556105" duration="5979000" />
     </task>
     <task id="LOCAL-00001" summary="create project">
       <created>1673702674366</created>
@@ -74,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673708270639</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="State pattern update and end">
+      <created>1673710127227</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673710127227</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +103,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create project" />
     <MESSAGE value="state" />
-    <option name="LAST_COMMIT_MESSAGE" value="state" />
+    <MESSAGE value="State pattern update and end" />
+    <option name="LAST_COMMIT_MESSAGE" value="State pattern update and end" />
   </component>
 </project>
