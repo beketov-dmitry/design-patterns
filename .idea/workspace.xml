@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d64ac122-b93a-4c34-842c-ad0259f29a18" name="Changes" comment="Strategy begin">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d64ac122-b93a-4c34-842c-ad0259f29a18" name="Changes" comment="Strategy end">
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Template Metod/Template Metod.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Template Metod/src/Network.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673702554703</updated>
-      <workItem from="1673702556105" duration="7338000" />
+      <workItem from="1673702556105" duration="7646000" />
     </task>
     <task id="LOCAL-00001" summary="create project">
       <created>1673702674366</created>
@@ -84,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673712416336</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Strategy end">
+      <created>1673714867721</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673714867721</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +115,7 @@
     <MESSAGE value="state" />
     <MESSAGE value="State pattern update and end" />
     <MESSAGE value="Strategy begin" />
-    <option name="LAST_COMMIT_MESSAGE" value="Strategy begin" />
+    <MESSAGE value="Strategy end" />
+    <option name="LAST_COMMIT_MESSAGE" value="Strategy end" />
   </component>
 </project>
