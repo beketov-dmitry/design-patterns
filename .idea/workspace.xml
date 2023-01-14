@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d64ac122-b93a-4c34-842c-ad0259f29a18" name="Changes" comment="Template end">
-      <change afterPath="$PROJECT_DIR$/Design Patterns/Singleton/Singleton.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d64ac122-b93a-4c34-842c-ad0259f29a18" name="Changes" comment="add Decorator">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673702554703</updated>
-      <workItem from="1673702556105" duration="10733000" />
+      <workItem from="1673702556105" duration="11072000" />
     </task>
     <task id="LOCAL-00001" summary="create project">
       <created>1673702674366</created>
@@ -107,7 +105,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673715302700</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add AbstractFactory">
+      <created>1673727453632</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1673727453632</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add Decorator">
+      <created>1673727541188</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1673727541188</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +144,8 @@
     <MESSAGE value="Strategy end" />
     <MESSAGE value="Template method begin" />
     <MESSAGE value="Template end" />
-    <option name="LAST_COMMIT_MESSAGE" value="Template end" />
+    <MESSAGE value="add AbstractFactory" />
+    <MESSAGE value="add Decorator" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Decorator" />
   </component>
 </project>
