@@ -12,4 +12,6 @@ public abstract class State
     public abstract void Process(String str);
 
     public abstract void Close();
+
+    public abstract void Process(string str) throws CloseStateException;
 }
