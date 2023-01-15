@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d64ac122-b93a-4c34-842c-ad0259f29a18" name="Changes" comment="add Readme">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design Patterns/Facade_kollokvium2/Facade_kollokvium2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design Patterns/Facade_kollokvium2/src/Battery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design Patterns/Facade_kollokvium2/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design Patterns/Facade_kollokvium2/src/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design Patterns/Facade_kollokvium2/src/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design Patterns/Facade_kollokvium2/src/Starter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="d64ac122-b93a-4c34-842c-ad0259f29a18" name="Changes" comment="add kollokvium 2(Facade)">
+      <change afterPath="$PROJECT_DIR$/Design Patterns/Facade_kollokvium2/info.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673702554703</updated>
       <workItem from="1673702556105" duration="11409000" />
-      <workItem from="1673780497088" duration="4055000" />
+      <workItem from="1673780497088" duration="5028000" />
     </task>
     <task id="LOCAL-00001" summary="create project">
       <created>1673702674366</created>
@@ -141,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673727645727</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add kollokvium 2(Facade)">
+      <created>1673788790813</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1673788790813</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +165,7 @@
     <MESSAGE value="Template end" />
     <MESSAGE value="add AbstractFactory" />
     <MESSAGE value="add Decorator" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Decorator" />
+    <MESSAGE value="add kollokvium 2(Facade)" />
+    <option name="LAST_COMMIT_MESSAGE" value="add kollokvium 2(Facade)" />
   </component>
 </project>
